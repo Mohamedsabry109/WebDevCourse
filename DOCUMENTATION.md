@@ -55,3 +55,5 @@ This comprehensive guide outlines the steps to seamlessly integrate Devpod CLI i
 
 10. **Update .ssh/config permissions inside the container**
    You may need to update the user's permission to the mounted file inside the contianer, simply run `sudo chmod 600 /home/vscode/.ssh/config`.
+
+11. 
